@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vladimir-Vologda - 
-<r>I study Python; 
+<p>I study Python; 
         Django;
         DRF;
         HTML;
         CSS;
         JS.
-</r>
+</p>
