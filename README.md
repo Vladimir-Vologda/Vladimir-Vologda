@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vladimir-Vologda - 
+- 👋 Hi, I’m @Vladimir-Vologda
 <p>
         I study Python;
         HTML;
